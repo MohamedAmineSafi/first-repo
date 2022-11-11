@@ -1,7 +1,3 @@
-# first-repo
-My First Repo
+# My very first repo
 
-This is a new edit from my local PC
-
-
-This is a second edit
+I am self-confident, lol.
